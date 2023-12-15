@@ -51,7 +51,6 @@ create table responses2 (
 
 );
 
-
 create table specializations (
     specialization_id  serial primary key,
     specialization_name text not null
